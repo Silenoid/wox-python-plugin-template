@@ -1,0 +1,11 @@
+{
+    "ID":"242734c2-a15a-4d80-9c3a-bc66d5a4e203",
+    "ActionKeyword":"gf",
+    "Name":"Grafanal",
+    "Description":"Grafana for quick swisscom app access",
+    "Author":"Enzo",
+    "Version":"1.0",
+    "Language":"python",
+    "IcoPath":"icon.png",
+    "ExecuteFileName":"main.py"
+}
